@@ -8,6 +8,13 @@ Programming languages already studied:</p>
 - Php (5 years)
 - JavaScript (1 year)
 - C# and C++ (4 years)
+- MySQL (4 years and still learning)
+- Ruby (1 year)
+
+If you want to get in touch:
+<a href="mailto:webmaster@example.com"><b>Email</b></a><br>
+or<br>
+<a href="mailto:webmaster@example.com"><b>linkedin</b></a>
 
 <h1>Português</h1>
 <p>Olá o meu nome é João Loureiro, tenho 20 anos e sou estudante de engenharia informática no Ispgaya. Trabalho com programação desde os meus 15 anos de idade.<br>
@@ -19,3 +26,10 @@ Linguagens de programação já estudadas:</p>
 - Php (5 anos)
 - JavaScript (1 ano)
 - C# e C++ (4 anos)
+- MySQL (4 anos e ainda a aprender)
+- Ruby (1 ano)
+
+Se quiser entrar em contacto:
+<a href="mailto:webmaster@example.com"><b>Email</b></a><br>
+or<br>
+<a href="mailto:webmaster@example.com"><b>linkedin</b></a>
