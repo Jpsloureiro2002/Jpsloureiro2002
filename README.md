@@ -11,7 +11,7 @@ Programming languages already studied:</p>
 - MySQL (4 years and still learning)
 - Ruby (1 year)
 
-If you want to get in touch:
+If you want to get in touch:<br>
 <a href="mailto:webmaster@example.com"><b>Email</b></a><br>
 or<br>
 <a href="mailto:webmaster@example.com"><b>linkedin</b></a>
@@ -29,7 +29,7 @@ Linguagens de programação já estudadas:</p>
 - MySQL (4 anos e ainda a aprender)
 - Ruby (1 ano)
 
-Se quiser entrar em contacto:
+Se quiser entrar em contacto:<br>
 <a href="mailto:webmaster@example.com"><b>Email</b></a><br>
 or<br>
 <a href="mailto:webmaster@example.com"><b>linkedin</b></a>
