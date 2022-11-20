@@ -3,13 +3,13 @@
 Now I'm focused on gaining more knowledge and experience.<br>
 Programming languages already studied:</p>
 
-- Python (2 years and still learning)
-- Visual Basic (3 years)
-- Php (5 years)
-- JavaScript (1 year)
-- C# and C++ (4 years)
-- MySQL (4 years and still learning)
-- Ruby (1 year)
+- Python -------- ★★★★★
+- Visual Basic -- ★★★★
+- Php ----------- ★★★★
+- JavaScript----- ★★★
+- C# and C++----- ★★★
+- MySQL --------- ★★★★
+- Ruby ---------- ★★
 
 If you want to get in touch:<br>
 <a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a>
@@ -18,13 +18,13 @@ If you want to get in touch:<br>
 Agora estou concentrado em adquirir mais conhecimentos e experiência.<br>
 Linguagens de programação já estudadas:</p>
 
-- Python (2 anos e ainda a aprender)
-- Visual Basic (3 anos)
-- Php (5 anos)
-- JavaScript (1 ano)
-- C# e C++ (4 anos)
-- MySQL (4 anos e ainda a aprender)
-- Ruby (1 ano)
+- Python -------- ★★★★★
+- Visual Basic -- ★★★★
+- Php ----------- ★★★★
+- JavaScript----- ★★★
+- C# and C++----- ★★★
+- MySQL --------- ★★★★
+- Ruby ---------- ★★
 
 Se quiser entrar em contacto:<br>
 <a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a>
