@@ -6,8 +6,8 @@ Programming languages already studied:</p>
 - Python -------- ★★★★★
 - Visual Basic -- ★★★★
 - Php ----------- ★★★★
-- JavaScript----- ★★★
-- C# and C++----- ★★★
+- JavaScript ---- ★★★
+- C# and C++ ---- ★★★
 - MySQL --------- ★★★★
 - Ruby ---------- ★★
 
@@ -21,8 +21,8 @@ Linguagens de programação já estudadas:</p>
 - Python -------- ★★★★★
 - Visual Basic -- ★★★★
 - Php ----------- ★★★★
-- JavaScript----- ★★★
-- C# and C++----- ★★★
+- JavaScript ---- ★★★
+- C# and C++ ---- ★★★
 - MySQL --------- ★★★★
 - Ruby ---------- ★★
 
