@@ -7,9 +7,9 @@ Programming languages already studied:</p>
 - Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
-- C# and C++ ---- ★★★☆☆
-- MySQL --------- ★★★★☆
-- Ruby ---------- ★★☆☆☆
+- C# and C++ - ★★★☆☆
+- MySQL ------- ★★★★☆
+- Ruby --------- ★★☆☆☆
 
 If you want to get in touch:<br>
 <a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a>
@@ -19,12 +19,12 @@ Agora estou concentrado em adquirir mais conhecimentos e experiência.<br>
 Linguagens de programação já estudadas:</p>
 
 - Python -------- ★★★★☆
-- Visual Basic -- ★★★★☆
+- Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
-- C# and C++ ---- ★★★☆☆
-- MySQL --------- ★★★★☆
-- Ruby ---------- ★★☆☆☆
+- C# and C++ - ★★★☆☆
+- MySQL ------- ★★★★☆
+- Ruby --------- ★★☆☆☆
 
 Se quiser entrar em contacto:<br>
 <a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a>
