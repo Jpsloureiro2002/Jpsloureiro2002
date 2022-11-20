@@ -12,8 +12,7 @@ Programming languages already studied:</p>
 - Ruby (1 year)
 
 If you want to get in touch:<br>
-<a href="joaoloureiro2002@hotmail.com"><b>Email</b></a> or <a href="www.linkedin.com/in/joãoloureirop"><b>linkedin</b></a>
-
+<a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a>
 <h1>Português</h1>
 <p>Olá o meu nome é João Loureiro, tenho 20 anos e sou estudante de engenharia informática no Ispgaya. Trabalho com programação desde os meus 15 anos de idade.<br>
 Agora estou concentrado em adquirir mais conhecimentos e experiência.<br>
@@ -28,4 +27,4 @@ Linguagens de programação já estudadas:</p>
 - Ruby (1 ano)
 
 Se quiser entrar em contacto:<br>
-<a href="joaoloureiro2002@hotmail.com"><b>Email</b></a> or <a href="www.linkedin.com/in/joãoloureirop"><b>linkedin</b></a>
+<a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a>
