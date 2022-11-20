@@ -4,7 +4,7 @@ Now I'm focused on gaining more knowledge and experience.<br>
 Programming languages already studied:</p>
 
 - Python -------- ★★★★☆
-- Visual Basic -- ★★★★☆
+- Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
 - C# and C++ ---- ★★★☆☆
