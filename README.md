@@ -10,6 +10,7 @@ Programming languages:</p>
 - C# and C++ - ★★★☆☆
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
+- Java --------- ★★★★☆
 
 If you want to get in touch:<br>
 <a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a>
@@ -25,6 +26,7 @@ Linguagens de programação:</p>
 - C# and C++ - ★★★☆☆
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
+- Java --------- ★★★★☆
 
 Se quiser entrar em contacto:<br>
 <a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a>
