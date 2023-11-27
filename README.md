@@ -14,6 +14,7 @@ Programming languages:</p>
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★☆
+- Rust --------- ★★★☆☆
 
 If you want to get in touch:<br>
 <a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a><br>
@@ -31,6 +32,7 @@ Linguagens de programação:</p>
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★☆
+- Rust --------- ★★★☆☆
 
 Se quiser entrar em contacto:<br>
 <a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a><br>
