@@ -1,6 +1,3 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpsloureiro2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1>English</h1>
 <p>Hello my name is João Loureiro, I am 21 years old and I am a student of computer engineering at Ispgaya College, I have been working with programming since I was 15 years old.<br>
 Now I'm focused on gaining more knowledge and experience.<br>
@@ -10,7 +7,7 @@ Programming languages:</p>
 - Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
-- C# and C++ - ★★★☆☆
+- C# and C++ - ★★★★☆
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★☆
@@ -28,7 +25,7 @@ Linguagens de programação:</p>
 - Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
-- C# and C++ - ★★★☆☆
+- C# and C++ - ★★★★☆
 - MySQL ------- ★★★★☆
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★☆
