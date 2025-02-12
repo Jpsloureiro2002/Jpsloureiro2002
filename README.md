@@ -3,8 +3,11 @@
 Now I'm focused on gaining more knowledge and experience.<br>
 Programming languages:</p>
 
+- TypeScript ---- ★★★★★
+- Dart ---- ★★★★★
+- Flutter ---- ★★★★★
+- React ---- ★★★★★
 - Python -------- ★★★★☆
-- Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
 - C# and C++ - ★★★★☆
@@ -12,6 +15,7 @@ Programming languages:</p>
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★★
 - Rust --------- ★★★☆☆
+- Visual Basic ---  ★★★★☆
 
 If you want to get in touch:<br>
 <a href="mailto:joaoloureiro2002@hotmail.com"><b>Email</b></a><br>
@@ -21,8 +25,11 @@ Discord: Roviory_#0145
 Agora estou concentrado em adquirir mais conhecimentos e experiência.<br>
 Linguagens de programação:</p>
 
+- TypeScript ---- ★★★★★
+- Dart ---- ★★★★★
+- Flutter ---- ★★★★★
+- React ---- ★★★★★
 - Python -------- ★★★★☆
-- Visual Basic ---  ★★★★☆
 - Php ----------- ★★★★☆
 - JavaScript ---- ★★★☆☆
 - C# and C++ - ★★★★☆
@@ -30,6 +37,7 @@ Linguagens de programação:</p>
 - Ruby --------- ★★☆☆☆
 - Java --------- ★★★★★
 - Rust --------- ★★★☆☆
+- Visual Basic ---  ★★★★☆
 
 Se quiser entrar em contacto:<br>
 <a href="mailto: joaoloureiro2002@hotmail.com"><b>Email</b></a><br>
